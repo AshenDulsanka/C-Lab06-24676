@@ -18,10 +18,13 @@ Enter 3 for Multiplication
 
 Enter 4 for Division
 
+
 Enter Your Choice : {input}
+
 
 Enter Number 1 : {input}
 
 Enter Number 2 : {input}
+
 
 Your Answer is : {output}
